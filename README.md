@@ -29,20 +29,20 @@ DE: Scraping &amp; API
 
 ## Wikipedia Scraping ## 
 
-`content`
+`описание+пропуски+EDA`
 
 ## Ostrovok Scraping ## 
 
-`content`
+`описание+пропуски+EDA`
 
 ## Aviasales API ## 
 
-`content`
+`описание+пропуски+EDA`
 
 ## 2GIS API ## 
 
-`content`
+`описание+пропуски+EDA`
 
 ## Aggregation ## 
 
-`content`
+`описание+пропуски+EDA`
