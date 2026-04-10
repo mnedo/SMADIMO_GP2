@@ -53,11 +53,17 @@ DE: Scraping &amp; API
 Таким образом, итоговой датасет стал содержать следующую информацию:
 
 city_name - название города,
+
 hotel_name - название отеля,
+
 reviews_count - количество отзывов на отель,
+
 rating_value - рейтинг отеля,
+
 price_per_night - цена за ночь в отеле,
+
 latitude - широта (точное расположение отеля),
+
 longitude - долгота (точное расположение отеля).
 
 | city_name | hotel_name | reviews_count | rating_value | price_per_night | latitude | longitude
