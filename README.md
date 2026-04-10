@@ -1,7 +1,15 @@
 # SMADIMO_GP2
 DE: Scraping &amp; API
 
-`здесь ссылки на данные и их подробное описание, с выводами о проведенном EDA в формате MarkDown`
+> (цитата из задания) Артефакты по окончании работы над проектом:
+>
+> Необходимо добавить в репозиторий `README.md` с подробным описанием проекта. В этот файл также необходимо добавить подробное описание данных — описание признаков, их тип, количество объектов каждого класса (в задачах классификации), информацию о пропущенных значениях (в т.ч о типичных филлерах, если это не `nan`). Также добавляйте другие релевантные вашей задачи описательные характеристики данных. После чтения этого файла у человека со стороны не должно остаться никаких вопросов про данные
+> 
+> Ноутбуки / скрипты со сбором и извлечением данных + Ноутбуки c осуществлением EDA
+> Заполненный файл `README.md` в репозитории проекта на гитхабе со ссылкой на данные и их подробным описанием, с выводами о проведенном EDA
+
+## Задача ##
+Определить перспективные места для открытия успешных отелей в России на основе открытых данных. Были собраны данные о существующих отелях (10к+ строк), данные о местах притяжениях и перелетах (API 5+ endpoint'ов). 
 
 ## Структура ##
 
@@ -10,7 +18,8 @@ DE: Scraping &amp; API
 | Wikipedia Scraping | [Посмотреть](https://github.com/mnedo/SMADIMO_GP2/tree/main?tab=readme-ov-file#wikipedia-scraping) |
 | Ostrovok Scraping | [Посмотреть](https://github.com/mnedo/SMADIMO_GP2/tree/main?tab=readme-ov-file#ostrovok-scraping) |
 | Aviasales API | [Посмотреть](https://github.com/mnedo/SMADIMO_GP2/tree/main?tab=readme-ov-file#aviasales-api) |
-| YandexMaps API | [Посмотреть](https://github.com/mnedo/SMADIMO_GP2/tree/main?tab=readme-ov-file#yandexMaps-api) |
+| 2GIS API | [Посмотреть](https://github.com/mnedo/SMADIMO_GP2/tree/main?tab=readme-ov-file#2gis-api) |
+| Aggregation | [Посмотреть](https://github.com/mnedo/SMADIMO_GP2/tree/main?tab=readme-ov-file#aggregation) |
 
 ## Пример md ##
 
@@ -30,6 +39,10 @@ DE: Scraping &amp; API
 
 `content`
 
-## YandexMaps API ## 
+## 2GIS API ## 
+
+`content`
+
+## Aggregation ## 
 
 `content`
